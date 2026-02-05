@@ -7,9 +7,11 @@
 
 ## 🚀 GitHub Stats
 
-[![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusHenrique1004&show_icons=true&theme=midnight-purple)](https://github.com/SEU_USUARIO_GITHUB)
+## 🚀 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusHenrique1004&layout=compact&theme=midnight-purple)
+![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusHenrique1004&show_icons=true&theme=midnight-purple&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusHenrique1004&layout=compact&theme=midnight-purple&cache_seconds=1800)
 
 ---
 
@@ -38,7 +40,8 @@
 
 ## 📫 Conecte-se comigo
 
-🔗 LinkedIn – https://www.linkedin.com/in/SEU_LINKEDIN  
+🔗 LinkedIn – www.linkedin.com/in/mateus-henrique-b421a322b
+🔗 Credly – https://www.credly.com/users/mateus-junqueira
 📍 São Paulo, Brasil
 
 ---
