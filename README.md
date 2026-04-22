@@ -55,7 +55,7 @@
 </p>
 
 ### 🗄️ Banco de Dados
-<p align="center">
+<p align="">
   <img src="https://img.shields.io/badge/SQL-00618A?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
