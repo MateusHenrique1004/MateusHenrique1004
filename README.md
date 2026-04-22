@@ -8,7 +8,6 @@
 ## 🚀 GitHub Stats
 
 ![Most Used Languages](https://github-readme-stats-six-phi.vercel.app/api/top-langs/?username=MateusHenrique1004&layout=compact&theme=midnight-purple)  
-![Mateus GitHub Stats](https://github-readme-stats-six-phi.vercel.app/api?username=MateusHenrique1004&show_icons=true&theme=midnight-purple)  
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MateusHenrique1004&theme=midnight_purple)
 
 ---
