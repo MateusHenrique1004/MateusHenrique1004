@@ -10,9 +10,9 @@
 
 ## 🚀 GitHub Stats
 
-<p align="">
-  <img src="https://github-readme-stats-six-phi.vercel.app/api/top-langs/?username=MateusHenrique1004&layout=compact&theme=midnight-purple" />
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MateusHenrique1004&theme=midnight_purple" />
+  <img src="https://github-readme-stats-six-phi.vercel.app/api/top-langs/?username=MateusHenrique1004&layout=compact&theme=midnight-purple" />
   <br><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MateusHenrique1004&theme=midnight_purple" />
 </p>
